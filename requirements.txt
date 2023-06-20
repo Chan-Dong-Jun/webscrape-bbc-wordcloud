@@ -1,0 +1,8 @@
+Libraries to be installed before running mainproj.py
+
+pip install pandas
+pip install wordcloud
+pip install matplotlib
+pip install jieba
+pip install requests
+pip install beautifulsoup4
