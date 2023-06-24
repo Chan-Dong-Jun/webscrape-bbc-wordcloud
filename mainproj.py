@@ -12,7 +12,7 @@ if (date := input("Pls input date in format (yyyymmdd): ")):
     tod = datetime.strptime(date, "%Y%m%d")
 
 multiplier = 1 # interval between each days 
-for no in range(2): # the integer in range indicates the number of days up to tod to scrape
+for no in range(4): # the integer in range indicates the number of days up to tod to scrape
     parse_article("https://web.archive.org/web/"+ str((tod-timedelta(days=no*multiplier)).strftime('%Y%m%d'))+"/https://www.bbc.com/zhongwen/simp", word_cloud_map)
 
 # creating wordcloud
