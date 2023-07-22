@@ -6,9 +6,9 @@ Note: The period must be after 2015 as the website did not exist before then. <b
 
 Attached are examples of a wordclouds generated. 
 <br/>
-<p float="left">
-  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="425"/>
-  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="425"/>
+<p align="middle">
+  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="400"/>
+  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="400"/>
 </p>
 
 <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="500"/>
