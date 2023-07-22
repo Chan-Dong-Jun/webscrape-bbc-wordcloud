@@ -6,11 +6,14 @@ Note: The period must be after 2015 as the website did not exist before then. <b
 
 Attached are examples of a wordclouds generated. 
 <br/>
+<div style="clear:both;">
 <p align="middle">
-  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="500"/>
-  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="500"/>
+  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="450"/>
+  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="450"/>
 </p>
-
+</div>
 <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="500"/>
 <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="500"/>
 The image on the left is generated for the month of May 2023 while the image on the right is for May 2020. The major happenings around the world can easily be identified through the wordclouds. Have fun!
+
+
