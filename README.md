@@ -5,4 +5,4 @@ Note: The period must be after 2015 as the website did not exist before then.
 项目说明: 对某新闻网站进行爬取，或定时对实时新闻进行自动爬取。该程序自动爬取BBC中文网的新闻头条，并将其中的关键词组织成个文字云。
 
 Attached is an example of a wordcloud
-<img src="[drawing.jpg](https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/mainproj.py)https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/mainproj.py" alt="2023-05-01" width="200"/>
+<img src="[drawing.jpg](https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png)https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="drawing" width="200"/>
