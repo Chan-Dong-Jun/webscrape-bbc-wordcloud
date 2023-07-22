@@ -7,3 +7,4 @@ Note: The period must be after 2015 as the website did not exist before then.
 Attached is an example of a wordcloud 
 <br/>
 <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="drawing" width="500"/>
+<img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="drawing" width="500"/>
