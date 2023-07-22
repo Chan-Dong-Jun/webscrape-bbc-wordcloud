@@ -8,8 +8,8 @@ Attached are examples of a wordclouds generated.
 <br/>
 <div style="clear:both;">
 <p align="middle">
-  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="450"/>
-  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="450"/>
+  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="425"/>
+  <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20200501.png" alt="20230501" width="425"/>
 </p>
 </div>
 <img src="https://github.com/Chan-Dong-Jun/webscrape-bbc-wordcloud/blob/main/Images/20230501.png" alt="20230501" width="500"/>
